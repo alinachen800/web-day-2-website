@@ -1,0 +1,9 @@
+profile.html
+1. #0f172a
+2. The .title class selector controls the "Engineer" text. The color property sets its text color to #38bdf8.
+3. The color turn color to #0284c7 and its text color to #ffffff when hovered over.
+
+event.html
+4. border. The color #ec4899 is pink.
+5. font-size. 1.8rem
+6. border-radius.
